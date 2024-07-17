@@ -80,4 +80,3 @@ View the source code and additional documentation on GitHub: [GitHub Repository 
 - **Olga Lashko**
 - 11-08-23
 
-Feel free to customize the README file further to fit your specific project details and preferences.
