@@ -14,25 +14,29 @@ The Cafe Management System is a Java Swing application designed to streamline th
 
 ## Screenshots
 
-**Main Menu**
+### Main Menu
+
 <img width="623" height="449" alt="main" src="https://github.com/user-attachments/assets/d4dbc0de-5532-42cc-a47d-aed560437888" />
 
-**Order Menu**
+### Order Menu
+
 <img width="686" height="452" alt="order" src="https://github.com/user-attachments/assets/a98be7c3-1298-465c-a916-c273bacd250a" />
 
-**Show Menu**
+### Show Menu
+
 <img width="663" height="455" alt="show-menu" src="https://github.com/user-attachments/assets/d8e01540-8b9d-41bb-be94-162f73c67adc" />
 
-**Manage Menu**
+### Manage Menu
+
 <img width="568" height="549" alt="manage-menu" src="https://github.com/user-attachments/assets/26a6e571-17e3-46fd-91af-f362378d4663" />
 
-**Data Validation**
+### Data Validation
 <img width="570" height="547" alt="validation" src="https://github.com/user-attachments/assets/9b671186-7831-470d-bf91-7b0fdf3e00d9" />
 
-**Confirmation**
+### Confirmation
 <img width="569" height="549" alt="confirmation" src="https://github.com/user-attachments/assets/8fa14c5e-8a67-4ee6-ade4-ee3cced23802" />
 
-**Show Receipt**
+### Show Receipt
 <img width="687" height="454" alt="receipt" src="https://github.com/user-attachments/assets/c6b1c432-8532-4634-9fab-cb92212a12cb" />
 
 
